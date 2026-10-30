@@ -1,0 +1,44 @@
+{
+    "branna_location": {
+        "keywords": [
+            "branna",
+            "where",
+            "find",
+            "location"
+        ],
+        "answer": "Branna's workshop stands beside the village gate in Eldoria."
+    },
+    "sword_shop": {
+        "keywords": [
+            "sword",
+            "weapon",
+            "blacksmith"
+        ],
+        "answer": "Branna the blacksmith sells reliable swords in her workshop beside the village gate."
+    },
+    "healing": {
+        "keywords": [
+            "health",
+            "healing",
+            "heal",
+            "wounds"
+        ],
+        "answer": "Visit the village healer and ask for a health potion."
+    },
+    "herb_quest": {
+        "keywords": [
+            "quest",
+            "herbs",
+            "reward"
+        ],
+        "answer": "Find the missing herbs near the river and bring them to the village healer. The reward is a health potion and some gold."
+    },
+    "magic_training": {
+        "keywords": [
+            "magic",
+            "spell",
+            "teach"
+        ],
+        "answer": "Master Orin teaches that magic requires patience. Start by learning to understand the energy around you."
+    }
+}

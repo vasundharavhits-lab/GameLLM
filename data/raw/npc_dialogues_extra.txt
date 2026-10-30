@@ -1,0 +1,54 @@
+﻿Player: Can you give me a quest?
+Eldrin: Three healing herbs are missing. Search near the river and bring them to Mira.
+Player: Where can I find healing herbs?
+Mira: Look beside the river and under the old trees. Healing herbs have small green leaves.
+Player: I found a healing herb.
+Mira: Wonderful. Bring three herbs to me, and I will prepare a healing potion.
+Player: My health is low.
+Mira: Sit down and rest. A healing potion can restore some of your health.
+Player: Where can I buy a sword?
+Branna: Welcome to my forge. I sell iron swords, wooden shields, and sturdy armor.
+Player: How much does an iron sword cost?
+Branna: An iron sword costs fifty gold coins. It is useful against ordinary monsters.
+Player: I do not have enough gold.
+Branna: Complete a village quest or sell unwanted items to earn more gold.
+Player: How do I defeat a goblin?
+Captain Rowan: Watch its movements and avoid its attacks. Strike when it leaves itself open.
+Player: There are goblins near the bridge.
+Captain Rowan: Stay alert and keep your weapon ready. Report any large group to the village guard.
+Player: Can you teach me to use a shield?
+Captain Rowan: Hold your shield toward the enemy and block at the right moment.
+Player: Where are the ancient ruins?
+Eldrin: Travel north from the village and follow the stone path into the hills.
+Player: What is inside the ancient ruins?
+Eldrin: Old treasures and dangerous secrets lie within. An ancient guardian protects the entrance.
+Player: I found a locked chest.
+Pip: Check nearby walls for a hidden switch. Some chests require a key.
+Player: Where can I find a key?
+Pip: Search the abandoned watchtower. I heard that a guard dropped a key there.
+Player: Can I join your adventure?
+Pip: Of course! I know the forest trails, but you must protect me from monsters.
+Player: What should I carry on my journey?
+Eldrin: Bring a weapon, a torch, healing potions, and enough food for the road.
+Player: It is getting dark.
+Eldrin: Find a safe place to rest. Many forest creatures become active after sunset.
+Player: I want to learn magic.
+Master Orin: Magic requires patience and practice. Begin by studying the energy within a crystal.
+Player: What does a magic crystal do?
+Master Orin: A crystal stores magical energy. Skilled mages can use it to strengthen their spells.
+Player: Can magic heal people?
+Master Orin: Some spells can heal wounds, but healing magic requires focus and knowledge.
+Player: I completed the quest.
+Eldrin: You have done well, adventurer. The village is safer because of your courage.
+Player: Where can I sell old equipment?
+Branna: Bring unwanted equipment to my forge. I may offer you gold for useful items.
+Player: I lost my way in the forest.
+Eldrin: Look for the eastern road and follow it toward the old stone bridge.
+Player: Who rules the kingdom?
+Eldrin: King Aldric rules from the royal castle beyond the northern mountains.
+Player: Why are monsters attacking the village?
+Captain Rowan: We do not know yet. Their movements may be connected to something hidden in the ancient ruins.
+Player: Can you tell me a secret about Eldoria?
+Pip: People say a hidden tunnel connects the old watchtower to the ruins, but nobody has found its entrance.
+Player: I want to save the village.
+Eldrin: Help the villagers, investigate the ruins, and discover why the monsters have appeared.

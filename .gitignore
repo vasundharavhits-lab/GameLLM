@@ -1,0 +1,62 @@
+
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Test and development caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Model checkpoints and large model files
+checkpoints/
+outputs/
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+pytorch_model.bin
+
+# Logs
+*.log
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+# Python cache folders
+**/__pycache__/
+
+# Trained model checkpoints
+*.pt
+*.pth
+*.ckpt
+*.safetensor
+# Local player memory
+memory/player_memory.json
+
+# Python cache and test artifacts
+__pycache__/
+.pytest_cache/
+
+# Local virtual environment
+.venv/
+
+# Trained model checkpoints
+*.pt
+*.pth
